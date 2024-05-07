@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702830389 source:c:\projetosemc\projetos_curso\nova pasta\negativos\main.c
+	<stdio.h>
+
+1702830389 source:c:\projetosemc\projetos_curso\problema_negativos\negativos\main.c
+	<stdio.h>
+

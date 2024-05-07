@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702147594 source:c:\projetosemc\projetos_curso\problema_baskara\baskara\main.c
+	<stdio.h>
+	<math.h>
+
